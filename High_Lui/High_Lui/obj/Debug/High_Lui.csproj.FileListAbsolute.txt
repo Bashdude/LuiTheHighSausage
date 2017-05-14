@@ -1,0 +1,9 @@
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\bin\Debug\High_Lui.exe.config
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\bin\Debug\High_Lui.exe
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\bin\Debug\High_Lui.pdb
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\obj\Debug\High_Lui.csprojResolveAssemblyReference.cache
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\obj\Debug\High_Lui.window.resources
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\obj\Debug\High_Lui.Properties.Resources.resources
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\obj\Debug\High_Lui.csproj.GenerateResource.Cache
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\obj\Debug\High_Lui.exe
+c:\users\florian\documents\visual studio 2017\Projects\High_Lui\High_Lui\obj\Debug\High_Lui.pdb
